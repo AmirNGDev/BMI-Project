@@ -7,6 +7,7 @@
 - Added waiting page
 - Added Share option
 
+<a href="https://github.com/SeyyedAmirNimaGhaebi/BMI-Project/releases/tag/BMI">Download the apk file</a>
 
 ## Watch video from the app
 <a href="https://aparat.com/v/r1JU4">Watch on Aparat</a>
