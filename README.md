@@ -9,7 +9,7 @@
 
 
 ## Watch video from the app
-
+<a href="https://github.com/SeyyedAmirNimaGhaebi/BMI-Project">https://github.com/SeyyedAmirNimaGhaebi/BMI-Project</a>
 
 # Photo Gallery
 
