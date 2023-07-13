@@ -2,6 +2,8 @@
 
 VERSION: 1.1.4
 
+## Changes in the new version
+- 
 
 # Photo Gallery
 
