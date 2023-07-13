@@ -1,9 +1,11 @@
 # BMI-Project in Flutter framework
 
-VERSION: 1.1.4
+### VERSION: 1.1.4
 
 ## Changes in the new version
-- 
+- Fixing a navigation bug
+- Added waiting page
+- Added Share option
 
 # Photo Gallery
 
