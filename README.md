@@ -8,7 +8,7 @@
 - Added Share option
 
 
-### Watch video from the app
+## Watch video from the app
 
 
 # Photo Gallery
